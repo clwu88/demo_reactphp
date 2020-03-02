@@ -1,0 +1,16 @@
+{
+    "name": "wuchaolong/reactphp-ws-client",
+    "description": "websocket client of php",
+    "type": "project",
+    "require": {
+        "ratchet/pawl": "^0.3.4",
+        "react/http": "^0.8.6",
+        "clue/redis-react": "^2.3"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
